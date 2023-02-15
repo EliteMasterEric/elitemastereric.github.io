@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Formatting and Checkstyle in Haxe
+date: 2023-2-14
 ---
 
 *A rundown on the various formatting and checkstyle options useful for maintaining Haxe code.*

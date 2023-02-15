@@ -1,11 +1,10 @@
 ---
 layout: post
 title: A Breakdown on Software Licenses
+date: 2023-2-3
 ---
 
-# Why License?
-
-With no license, code is "All Rights Reserved" and any other application using your code is committing copyright infringement! So you should choose a license for any code you distribute publically.
+*With no license, code is "All Rights Reserved" and any other application using your code is committing copyright infringement! So you should choose a license for any code you distribute publically.*
 
 Licenses will additionally protect the copyright holder from damages, and absolve any liability or unstated warranties related to the copyrighted code.
 
