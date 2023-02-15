@@ -13,5 +13,9 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  <div class="reading-time">
+    Reading time: {{ page.content | reading_time }}
+  </div>
+
   {% include disqus.html %}
 </article>
