@@ -12,8 +12,12 @@ layout: default
         Written on {{ post.date | date: "%B %e, %Y" }}
       </div>
     
+      {% capture words %}
+      {{ post.content | number_of_words | minus: 180 }}
+      {% endcapture %}
+    
       <div class="reading-time">
-        <i>Reading time: {{ post.content | reading_time }} min</i>
+        <i>Reading time: {{ words | plus: 150 | divided_by: 150 }} min</i>
       </div>
 
       <div class="entry">
