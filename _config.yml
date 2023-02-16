@@ -80,7 +80,7 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - reading_time_filter
+  - liquid-reading-time # Estimates reading time for content
 
 # Exclude these files from your production _site
 exclude:

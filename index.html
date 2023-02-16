@@ -8,6 +8,14 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      <div class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+      </div>
+    
+      <div class="reading-time">
+        <i>Reading time: {{ page.content | reading_time }} min</i>
+      </div>
+
       <div class="entry">
         {{ post.excerpt }}
       </div>
