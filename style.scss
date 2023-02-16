@@ -19,8 +19,16 @@ html {
 
 body {
 	background: $white;
+  
+  // Add an image to the background.
   background-image: url("images/PhantomArcade.png");
+  
+  // Make the image small and push it to the bottom right corner.
+  background-size: 30%;
+  background-repeat: no-repeat;
   background-position: right bottom;
+  background-position-y: calc(100% - 90px);
+
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -273,7 +281,9 @@ nav {
   }
 }
 
-.wrapper-footer {
+.wrapper-footer {]
+  height: 90px;
+
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
