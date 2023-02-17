@@ -19,6 +19,10 @@ This simple extension adds convenient utilities to automatically call the `Forma
 
 You can right click a folder to format all files in that folder, or use the command palette (Ctrl+Shift+P) to format the entire workspace, or just files matching a specific glob.
 
+- **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) by esbenp**'
+
+This extension provides a powerful code formatter for many languages, including JavaScript and JSON. It is highly configurable, and can be used to format code on save, or on paste.
+
 ## Haxe
 
 - **[Haxe](https://marketplace.visualstudio.com/items?itemName=nadako.vshaxe)**
@@ -28,6 +32,32 @@ This is the recommended extension for Haxe, and anyone who has written Haxe has 
 - Full debugging support with breakpoints (see [my Haxe Debugger guide](/Haxe-VSCode-Debugger/)).
 - Refactoring (Right Click -> Refactor)
 - Formatting with hxformat (see [my Haxe formatting guide](/Haxe-Formatting/))
+
+- **[Lime](https://marketplace.visualstudio.com/items?itemName=openfl.lime-vscode-extension)**
+
+The Lime extension provides several useful features for those developing with Lime, OpenFL, or HaxeFlixel:
+
+- Populate dependency tree automatically based on libraries listed in `project.xml`
+- Launch configurations for use with the debugger
+- Additional code completion
+
+- **[Haxe Checkstyle](https://marketplace.visualstudio.com/items?itemName=vshaxe.haxe-checkstyle)**
+
+This extension provides a wide variety of static analysis tools for Haxe code. It can be configured to run on save, or on demand. It also provides fixes for many of the issues it reports. For a more in-depth guide on Checkstyle, see [my Haxe formatting guide](/Haxe-Formatting/).
+
+- **[Haxe blocks](https://marketplace.visualstudio.com/items?itemName=jeremyfa.haxe-blocks)**
+
+This simple extension for Haxe annotates the closing brace of blocks with a comment containing the name of the block. This is useful for quickly identifying the end of a function or class, especially within long files.
+
+## Shaders/GLSL
+
+- **[GLSL Language](https://marketplace.visualstudio.com/items?itemName=slevesque.shader) by slevesque**
+
+This extension provides syntax highlighting and code completion for GLSL shaders. It also provides a few useful commands for compiling and running shaders.
+
+- **[Shader Toy](https://marketplace.visualstudio.com/items?itemName=jakearl.shader-toy-web) by jakearl**
+
+This extension provides a live web preview of GLSL shaders, matching the syntax of ShaderToy. It can be configured to automatically reload the preview when the shader is saved.
 
 ## AI Assistance
 
@@ -52,3 +82,15 @@ This simple extension provides access to OpenAI's state-of-the-art chat bot via 
 The extension can be buggy (especially during periods of high load), and ChatGPT is not specifically built for code, but it is very powerful when it comes to explaining or describing chunks of code and especially with explaining algorithms.
 
 ChatGPT requires an OpenAI account (which is free), and supports OpenAI Plus accounts which get priority during periods of high demand.
+
+## Other
+
+- **[CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) by adpyke**
+
+This extension provides a simple way to take screenshots of code. It can be used to create images for use in documentation, or to share code snippets.
+
+- **[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) by vscode-icons-team**
+
+This extension is the largest icon theme for Visual Studio Code. It provides icons for many file types, and can be used to quickly identify files in the explorer view.
+
+You can find more extensions on the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/search?term=tag%253Aicon-theme&target=VSCode).
