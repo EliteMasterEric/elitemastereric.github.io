@@ -1,19 +1,22 @@
 {% if site.google_analytics %}
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		// Set the current date.
-		gtag('js', new Date());
-		// Broadcast an event for a page view.
-		gtag('event', 'page_view', {
-			page_title: '{{ page.title | replace: "'", "\\'" }}',
-			page_location: '{{ site.baseurl }}{{ page.url }}',
-			send_to: '{{ site.google_analytics }}'
-		});
-		// Configure analytics with your Google Analytics tracking ID.
-		gtag('config', '{{ site.google_analytics }}');
-	</script>
-	<!-- End Google Analytics -->
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    // Set the current date.
+    gtag('js', new Date());
+  
+    // Broadcast an event for a page view.
+    gtag('event', 'page_view', {
+          page_title: '{{ page.title | replace: "\'", "\\\'" }}',
+          page_location: '{{ site.baseurl }}{{ page.url }}',
+          send_to: '{{ site.google_analytics }}'
+    });
+
+    // Configure analytics with your Google Analytics tracking ID.
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+  <!-- End Google Analytics -->
 {% endif %}
