@@ -2,7 +2,7 @@
 layout: post
 title: Teyvat.moe Genshin Impact Map
 date: 2021-6-14
-tags: projects gaming
+tags: projects gaming react
 ---
 
 Teyvat.moe was a Genshin Impact interactive map site built in React. It featured robust data handling, a mobile-compatible map interface, localization, and advanced features to encourage community contribution.

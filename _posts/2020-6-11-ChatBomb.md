@@ -1,0 +1,18 @@
+---
+layout: post
+title: ChatBomb for Minecraft 1.14
+date: 2019-11-10
+tags: projects gaming minecraft minecraft-fabric
+---
+
+ChatBomb is a simple mod for Minecraft Fabric 1.14 (and Minecraft Forge 1.10 and 1.11).
+
+This mod adds a block that's really a blast to use. It's just bursting with personality!
+
+![](/images/chatbomb.gif)
+
+This block is on a short fuse. If you say any trigger words near it, it'll EXPLODE!
+
+The 1.14 version of ChatBomb is a rewrite for Minecraft Fabric, and includes advancements and improved behavior (ChatBombs now explode through standard methods such as redstone and flint & steel).
+
+[Check it out](https://www.curseforge.com/minecraft/mc-mods/chat-bomb)

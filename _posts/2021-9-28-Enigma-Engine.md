@@ -2,7 +2,7 @@
 layout: post
 title: Enigma Engine for Friday Night Funkin'
 date: 2021-9-28
-tags: projects gaming haxe
+tags: projects gaming haxe haxeflixel
 ---
 
 Enigma Engine was a fork of the publicly available source code for Friday Night Funkin' (written in the HaxeFlixel game engine). 
