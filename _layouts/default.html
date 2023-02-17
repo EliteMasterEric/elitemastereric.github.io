@@ -3,15 +3,8 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% if site.tags != "" %}
-      {% include collecttags.html %}
-    {% endif %}
-  
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ site.baseurl }}/sitemap.xml" />
+    {% include head.html %}
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
