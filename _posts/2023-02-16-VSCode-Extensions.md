@@ -1,11 +1,11 @@
 ---
 layout: post
-title: My Top VSCode Extensions
+title: My Top VSCode Extensions (Updated Feb. 16, 2023)
 date: 2023-2-16
 tags: development vscode
 ---
 
-_My recommended suite of Visual Studio Code extensions to maximize productivity, as well as tips and tricks for how to best use them._
+_My recommended suite of Visual Studio Code extensions to maximize productivity, as well as tips and tricks for how to best use them. Regularly updated to add new entries and remove old ones._
 
 This list will exclude common/obvious extensions like [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools).
 
@@ -23,9 +23,11 @@ You can right click a folder to format all files in that folder, or use the comm
 
 - **[Haxe](https://marketplace.visualstudio.com/items?itemName=nadako.vshaxe)**
 
-Anyone who has written Haxe has this extension, and has used its syntax highlighting and 
+This is the recommended extension for Haxe, and anyone who has written Haxe has used its syntax highlighting, problem reporting, and code completion features. However, you might not be aware that it has a wide variety of powerful features, such as:
 
-
+- Full debugging support with breakpoints (see [my Haxe Debugger guide](/Haxe-VSCode-Debugger/)).
+- Refactoring (Right Click -> Refactor)
+- Formatting with hxformat (see [my Haxe formatting guide](/Haxe-Formatting/))
 
 ## AI Assistance
 
