@@ -85,12 +85,16 @@ ChatGPT requires an OpenAI account (which is free), and supports OpenAI Plus acc
 
 ## Other
 
+- **[Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) by monokai**
+
+This is a high quality theme for Visual Studio Code. It is highly configurable, and can be used to customize the look of the editor, terminal, and other views.
+
+- **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) by PKief**
+
+This is a simple and highly configurable icon theme for Visual Studio Code. It provides clean and minimal icons for many file types, and can be used to quickly identify files in the explorer view.
+
+You can find more icon themes on the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/search?term=tag%253Aicon-theme&target=VSCode).
+
 - **[CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) by adpyke**
 
 This extension provides a simple way to take screenshots of code. It can be used to create images for use in documentation, or to share code snippets.
-
-- **[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) by vscode-icons-team**
-
-This extension is the largest icon theme for Visual Studio Code. It provides icons for many file types, and can be used to quickly identify files in the explorer view.
-
-You can find more extensions on the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/search?term=tag%253Aicon-theme&target=VSCode).

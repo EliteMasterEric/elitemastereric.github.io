@@ -38,8 +38,10 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+}
 
-  // Set minimum page height.
+#main {
+  // Set minimum page content height.
   min-height: 400px;
 }
 
