@@ -1,0 +1,21 @@
+<article class="post">
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+    <div class="date">
+      Written on {{ post.date | date: "%B %e, %Y" }}
+    </div>
+  
+    {% capture words %}
+    {{ post.content | number_of_words | minus: 180 }}
+    {% endcapture %}
+  
+    <div class="reading-time">
+      <i>Reading time: {{ words | plus: 150 | divided_by: 150 }} min</i>
+    </div>
+
+    <div class="entry">
+      {{ post.excerpt }}
+    </div>
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+</article>

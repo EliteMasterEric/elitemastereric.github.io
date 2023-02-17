@@ -2,9 +2,10 @@
 layout: post
 title: Formatting and Checkstyle in Haxe
 date: 2023-2-14
+tags: development vscode haxe
 ---
 
-*A rundown on the various formatting and checkstyle options useful for maintaining Haxe code. This article was partially written with ChatGPT, with manual proofreading.*
+_A rundown on the various formatting and checkstyle options useful for maintaining Haxe code. This article was partially written with ChatGPT, with manual proofreading._
 
 # Introduction
 
@@ -128,4 +129,4 @@ module.exports = {
 Note also Prettier's rules for [formatting multi-line objects](https://prettier.io/docs/en/rationale.html#multi-line-objects).
 To summarize, if the first property of an object is on the same line as the curly brace, it will be reformatted to one line, but if the first property is on a different line, it wil be formatted to one property per line. This is useful for keeping short objects collapsed and larger objects expanded.
 
-# 
+#
