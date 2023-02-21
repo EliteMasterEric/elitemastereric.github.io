@@ -16,6 +16,11 @@ Eric's cool website.
 - Reading time: https://jekyllcodex.org/without-plugin/reading-time-indicator/
 - Deployment status: https://github.com/EliteMasterEric/elitemastereric.github.io/actions/workflows/pages/pages-build-deployment
 
+## To Add
+
+- https://pq3-compendium.vercel.app/spells
+- https://www.atlassian.com/git/tutorials/comparing-workflows
+
 ## License
 
 The content of this website is all rights reserved, copyright EliteMasterEric.
