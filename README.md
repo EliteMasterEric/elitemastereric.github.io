@@ -18,8 +18,7 @@ Eric's cool website.
 
 ## To Add
 
-- https://pq3-compendium.vercel.app/spells
-- https://www.atlassian.com/git/tutorials/comparing-workflows
+- GetThreadContext Failed
 
 ## License
 
