@@ -1,2 +1,4 @@
+- Clean up formatting article
 - How to solve GetThreadContext Failed
 - https://www.youtube.com/playlist?list=PLJ690cxlZTgL4i3sjTPRQTyrJ5TTkYJ2_
+- https://github.com/newren/git-filter-repo/blob/main/Documentation/converting-from-bfg-repo-cleaner.md#cheat-sheet-conversion-of-examples-from-bfg
