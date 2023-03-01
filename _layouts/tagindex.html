@@ -4,7 +4,7 @@ layout: default
 <div class="post">
 <h1>Tag: {{ page.tag }}</h1>
 <i>{{page.description}}</i>
-<ul>
+<ul style="padding-left: 0px;">
 {% for post in site.tags[page.tag] %}
     {% include article.html post=post %}
 {% endfor %}

@@ -9,4 +9,4 @@ Krystara.io was a server project attempting to provide a comprehensive resource 
 
 Krystara.io sought to provide live data for Gems of War, including a live leaderboard and a comprehensive troop database. It also provided a suite of tools for Gems of War players, including a custom troop creator art tool.
 
-Krystara.io was in sporatic development between February 2020 and September 2021. 
+Krystara.io was in sporatic development, mainly due to technical issues with backend development, and was developed between February 2020 and September 2021. 

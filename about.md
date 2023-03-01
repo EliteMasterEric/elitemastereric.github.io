@@ -67,6 +67,7 @@ I am currently developing games using [Haxe](https://haxe.org/) for [The Funkin'
 ### Personal Projects
 * *ARCHIVED* [Enigma Engine - Modification for Friday Night Funkin'](https://github.com/EnigmaEngine/EnigmaEngine/)
 * *ARCHIVED* [krystara.io - Game resource for Gems of War](https://krystara.io/)
+* *ARCHIVED* [PQ3 Compendium - Resource for Puzzle Quest 3](https://pq3-compendium.vercel.app/spells)
 * *ARCHIVED* [GenshinMap - Interactive Community-driven Map for Genshin Impact](https://github.com/GenshinMap/genshinmap.github.io/)
 * [gow-troop-creator - Interactive web tool to render custom troop cards for Gems of War](https://github.com/MasterEric/gow-troop-creator)
 * [ChatBomb - Minecraft Mod (Forge and FabricMC)](https://github.com/MasterEric/ChatBomb)

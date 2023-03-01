@@ -116,7 +116,11 @@ Licenses will additionally protect the copyright holder from damages, and absolv
 
 # Art/Music Licenses
 
-See here for info on art and music licenses: https://creativecommons.org/about/cclicenses/
+Generally, a project's art and music should not be covered by a software license. Instead, they should be covered by a separate license which places better restrictions on commercial use.
+
+Unlike software licenses, there is much less confusion around artistic licenses. The licenses created by Creative Commons are widely used and understood, and different terms are available for different use cases.
+
+You can learn more about the different Creative Commons licenses here: https://creativecommons.org/choose/
 
 # Additional Notes/Q&A
 
