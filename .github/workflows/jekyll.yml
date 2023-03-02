@@ -1,0 +1,29 @@
+# Performs a Jekyll deploy action daily.
+name: Daily Jekyll deployment
+
+on:
+  schedule:
+    - cron: "00 12 * * *"
+  workflow_dispatch: # Allow for manual deployment for troubleshooting
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      # Use GitHub Actions' cache to cache dependencies on servers
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      # Use GitHub Deploy Action to build and deploy to Github
+      - uses: jeffreytse/jekyll-deploy-action@v0.3.1
+        with:
+          provider: 'github'
+          token: ${{ secrets.GH_ACTIONS_TOKEN }} 
+          branch: 'gh-pages'
+          cname: 'www.elitemastereric.com'
