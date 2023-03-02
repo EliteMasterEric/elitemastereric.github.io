@@ -44,15 +44,19 @@ Note that these engines often have difficulties with distribution on console pla
 
 These game engines are closed source, and require a license to use. The license often allows free use for non-commercial projects, but requires a paid license for commercial projects. Additionally, the low-level code of these engines is kept highly proprietary, and is not accessible to the public.
 
-- [Unity](https://unity.com/)
-    - 2D and 3D game engine
-    - Supports Windows, Mac, Linux, WebGL, iOS, Android, PlayStation 4/5, Xbox One/Series X/S, Nintendo Switch, VR
-- [Unreal Engine](https://www.unrealengine.com/)
-    - 2D and 3D game engine
-- [GameMaker Studio 2](https://www.yoyogames.com/gamemaker)
-    - 2D game engine
-- [Construct 3](https://www.construct.net/)
-    - 2D game engine
+**[Unity](https://unity.com/)**
+- 2D and 3D game engine
+- Supports Windows, Mac, Linux, WebGL, iOS, Android, PlayStation 4/5, Xbox One/Series X/S, Nintendo Switch, VR
+- [C# Coding Conventions in Unity](https://www.youtube.com/watch?v=vYIM-PG85vo)
+
+**[Unreal Engine](https://www.unrealengine.com/)**
+- 2D and 3D game engine
+
+**[GameMaker Studio 2](https://www.yoyogames.com/gamemaker)**
+- 2D game engine
+
+**[Construct 3](https://www.construct.net/)**
+- 2D game engine
 
 ## Creative Commons Assets
 
@@ -71,7 +75,9 @@ Here are some lists of Creative Commons assets that you can use in your game pro
 ## Programming
 
 ### Design Patterns
-- [Observer Pattern as demonstrated in Unity](https://www.youtube.com/watch?v=NY_fzd8g5MU)
+- [State Machines, demonstrated in Unity](https://www.youtube.com/watch?v=Vt8aZDPzRjI)
+- [Observer Pattern, demonstrated in Unity](https://www.youtube.com/watch?v=NY_fzd8g5MU)
+- [Command Pattern, demonstrated in Unity](https://www.youtube.com/watch?v=oLRINAn0cuw)
 
 ### C++
 - [CPPCon](https://www.youtube.com/@CppCon/videos) - VODS of an annual conference for C++ developers
