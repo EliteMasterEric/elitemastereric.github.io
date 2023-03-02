@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Future Post Example
-date: 2023-3-2
+date: 2023-03-02 01:00 -0500 # 1AM EST
 tags: development
 ---
 

@@ -39,7 +39,7 @@ google_analytics: G-5WF7THFTYS
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://elitemastereric.github.io
+url: https://www.elitemastereric.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -53,14 +53,10 @@ reading_time:
   minute_singular: "min"  # default: minute
   minute_plural: "min"    # default: minutes
 
-# Don't publish posts dated for the future.
-# There is a GitHub Action which republishes the site every day,
-# so new posts get included this way.
+# Don't publish private, future, or draft posts
+unpublished: false
 future: false
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+show_drafts: false
 
 permalink: /:title/
 
