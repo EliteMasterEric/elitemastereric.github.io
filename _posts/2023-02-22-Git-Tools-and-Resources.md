@@ -30,6 +30,7 @@ If you don't want to learn Git from the command line, there are several GUI tool
 ## Tools and Utilities
 - [git-filter-repo](https://github.com/newren/git-filter-repo/) - A new, faster, cleaner, more featureful version of git-filter-branch
     - Useful for rewriting history, removing sensitive information, and other tasks that require modifying the history of a Git repository.
+    - [git-filter-repo cheat sheet](https://github.com/newren/git-filter-repo/blob/main/Documentation/converting-from-filter-branch.md#cheat-sheet-conversion-of-examples-from-the-filter-branch-manpage)
 
 ## Workflows
 Git workflows are methods of using Git to organize your development process.

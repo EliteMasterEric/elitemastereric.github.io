@@ -1,10 +1,7 @@
 - Clean up formatting article
 - How to solve GetThreadContext Failed
 - https://www.gdcvault.com/play/1023291/Designing-AI-for-Competitive
-- https://www.youtube.com/playlist?list=PLJ690cxlZTgL4i3sjTPRQTyrJ5TTkYJ2_
-- https://github.com/newren/git-filter-repo/blob/main/Documentation/converting-from-filter-branch.md#cheat-sheet-conversion-of-examples-from-the-filter-branch-manpage
 
-- clip.exe for WSL
 
 1. Static Extensions
 

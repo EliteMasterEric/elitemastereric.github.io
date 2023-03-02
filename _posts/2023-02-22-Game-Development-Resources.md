@@ -24,16 +24,21 @@ These game engines are open source. They are not only free, but also provide ful
 
 Note that these engines often have difficulties with distribution on console platforms. This is because console platforms make their software development kits proprietary, and thus open source game engines cannot publicly publish tools for these platforms.
 
-- [Godot Engine](https://godotengine.org/)
-    - 2D and 3D game engine built with C++
-    - Supports Windows, Mac, Linux, HTML5, Android, iOS,
-        - Console support: Nintendo Switch support is available by request for licensed developers.
-    - Scripting languages: GDScript or C#
-- [HaxeFlixel](https://haxeflixel.com/)
-    - 2D game engine built with Haxe
-    - Supports Windows, Linux, Mac, HTML5, Android, iOS.
-        - Console support: Nintendo Switch support is available by request for licensed developers. 
-    - Scripting language: Haxe
+**[Godot Engine](https://godotengine.org/)**
+- 2D and 3D game engine built with C++
+- Supports Windows, Mac, Linux, HTML5, Android, iOS,
+    - Console support: Nintendo Switch support is available by request for licensed developers.
+- Scripting languages: GDScript or C#
+- [Make Games with Godot: Beginner Edition](https://www.gdquest.com/tutorial/godot/learning-paths/beginner/) - A guide for new developers to learn programming with Godot.
+- [Make Games with Godot: Developer Edition](https://www.gdquest.com/tutorial/godot/learning-paths/developer/) - A guide for experienced developers to learn Godot.
+- [KidsCanCode: Godot Recipes](http://kidscancode.org/godot_recipes/4.x/)
+- [GDScript Fundamentals](https://www.youtube.com/playlist?list=PLJ690cxlZTgL4i3sjTPRQTyrJ5TTkYJ2_)
+
+**[HaxeFlixel](https://haxeflixel.com/)**
+- 2D game engine built with Haxe
+- Supports Windows, Linux, Mac, HTML5, Android, iOS.
+    - Console support: Nintendo Switch support is available by request for licensed developers. 
+- Scripting language: Haxe
 
 ### Closed Source Game Engines
 
@@ -45,13 +50,15 @@ These game engines are closed source, and require a license to use. The license 
 - [Unreal Engine](https://www.unrealengine.com/)
     - 2D and 3D game engine
 - [GameMaker Studio 2](https://www.yoyogames.com/gamemaker)
+    - 2D game engine
 - [Construct 3](https://www.construct.net/)
+    - 2D game engine
 
 ## Creative Commons Assets
 
 Here are some lists of Creative Commons assets that you can use in your game projects.
 
-- https://itch.io/blog/478317/life-as-a-creative-commons-indie-game-developer
+- [Life as a creative commons indie game developer](https://itch.io/blog/478317/life-as-a-creative-commons-indie-game-developer) - A list of links and resources
 - [OpenGameArt.org](https://opengameart.org/)
 - [Kenney.nl](https://kenney.nl/)
 - [itch.io](https://itch.io/)
@@ -62,6 +69,9 @@ Here are some lists of Creative Commons assets that you can use in your game pro
 - [Fortress of Doors](https://www.fortressofdoors.com/) - Lars Doucet's blog about game/software development 
 
 ## Programming
+
+### Design Patterns
+- [Observer Pattern as demonstrated in Unity](https://www.youtube.com/watch?v=NY_fzd8g5MU)
 
 ### C++
 - [CPPCon](https://www.youtube.com/@CppCon/videos) - VODS of an annual conference for C++ developers
