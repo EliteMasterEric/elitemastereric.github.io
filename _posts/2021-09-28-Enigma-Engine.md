@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enigma Engine for Friday Night Funkin'
-date: 2021-9-28
+date: 2021-09-28 00:00 +0000
 tags: projects gaming haxe haxeflixel
 ---
 

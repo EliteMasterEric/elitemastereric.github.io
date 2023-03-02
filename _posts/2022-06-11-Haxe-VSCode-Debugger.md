@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using HXCPP Debugger with VSCode
-date: 2022-6-11
+date: 2022-06-11 00:00 +0000
 tags: vscode haxe development
 ---
 

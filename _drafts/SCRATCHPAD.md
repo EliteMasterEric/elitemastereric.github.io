@@ -3,8 +3,6 @@
 - https://www.gdcvault.com/play/1023291/Designing-AI-for-Competitive
 - https://www.youtube.com/playlist?list=PLJ690cxlZTgL4i3sjTPRQTyrJ5TTkYJ2_
 - https://github.com/newren/git-filter-repo/blob/main/Documentation/converting-from-filter-branch.md#cheat-sheet-conversion-of-examples-from-the-filter-branch-manpage
-- <iframe src="https://www.youtube.com/embed/dXBohfjc4WA" width="680" height="480" allowfullscreen></iframe>
-- https://idratherbewriting.com/documentation-theme-jekyll/mydoc_exluding_files.html
 
 - clip.exe for WSL
 

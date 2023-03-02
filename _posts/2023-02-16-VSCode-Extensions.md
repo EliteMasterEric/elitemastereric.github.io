@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Top VSCode Extensions (Updated Feb. 16, 2023)
-date: 2023-2-16
+date: 2023-02-16 00:00 +0000
 tags: development vscode
 ---
 

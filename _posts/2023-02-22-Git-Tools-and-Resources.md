@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git Tools and Resources
-date: 2023-2-22
+date: 2023-02-22 00:00 +0000
 tags: development git
 ---
 

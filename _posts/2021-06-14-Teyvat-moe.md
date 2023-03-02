@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teyvat.moe Genshin Impact Map
-date: 2021-6-14
+date: 2021-06-14 00:00 +0000
 tags: projects gaming react
 ---
 

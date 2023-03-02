@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Breakdown on Software Licenses
-date: 2023-2-3
+date: 2023-02-03 00:00 +0000
 tags: development
 ---
 

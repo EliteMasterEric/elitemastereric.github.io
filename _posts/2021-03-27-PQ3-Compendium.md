@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Puzzle Quest 3 Compendium
-date: 2019-11-10
+date: 2019-11-10 00:00 +0000
 tags: projects gaming react
 ---
 
