@@ -58,13 +58,14 @@ These game engines are closed source, and require a license to use. The license 
 **[Construct 3](https://www.construct.net/)**
 - 2D game engine
 
-## Creative Commons Assets
+## Assets
 
-Here are some lists of Creative Commons assets that you can use in your game projects.
+Here are some lists of free assets that you can use in your game projects.
 
 - [Life as a creative commons indie game developer](https://itch.io/blog/478317/life-as-a-creative-commons-indie-game-developer) - A list of links and resources
 - [OpenGameArt.org](https://opengameart.org/)
 - [Kenney.nl](https://kenney.nl/)
+- [15 sources of texture maps](https://www.youtube.com/watch?v=Na1gyd6MUKA)
 - [itch.io](https://itch.io/)
 
 ## Blogs and Blog Posts
