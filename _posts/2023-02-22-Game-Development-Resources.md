@@ -93,4 +93,5 @@ Here are some lists of free assets that you can use in your game projects.
 
 ## Other Links
 
+- [Collection of dev tools and resources](https://devga.me/free/)
 - [Awesome Lists about game development](https://github.com/sindresorhus/awesome#gaming)
