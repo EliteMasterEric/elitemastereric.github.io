@@ -14,7 +14,7 @@ Eric's cool website.
 - https://stackoverflow.com/questions/53215356/jekyll-how-to-use-custom-plugins-with-github-pages
 - Post tags: https://longqian.me/2017/02/09/github-jekyll-tag/
 - Reading time: https://jekyllcodex.org/without-plugin/reading-time-indicator/
-- Deployment status: https://github.com/EliteMasterEric/elitemastereric.github.io/actions/workflows/pages/pages-build-deployment
+- Deployment status: https://github.com/EliteMasterEric/elitemastereric.github.io/actions/workflows/jekyll.yml?query=event%3Apush
 
 ## License
 
