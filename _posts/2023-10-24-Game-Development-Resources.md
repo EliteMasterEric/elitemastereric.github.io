@@ -1,22 +1,27 @@
 ---
 layout: post
 title: Game Development Resources and Tools
-date: 2023-02-22 00:00 +0000
+date: 2023-10-24 00:00 +0000
 tags: development git
 ---
 
 Here are some lists of resources that you can use to learn about game development, or as a reference for your game projects.
 
+
 ## General Game Development
+- [GamesFromScratch](https://gamefromscratch.com/) - Game development news and tutorials
 - [GDC YouTube Channel](https://www.youtube.com/@Gdconf) - Includes videos of select presentations from the Game Developers Conference
     - [Mirror](https://mirror.reenigne.net/gdc/) - Mirror of the GDC YouTube channel
     - [GDC Vault](https://www.gdcvault.com/) - Service providing slides and video recordings of ALL presentations from GDC
         - Presentations from GDC 2020 and older are free to view
         - Presentations from GDC 2021/2022 are only available to GDC Vault subscribers
+- [A nice figure listing all the parts of a game engine](https://www.gameenginebook.com/figures.html)
+
 
 ## Game Engines
 
 A game engine is a software framework with an associated set of tools, designed to facilitate the development of video games. Game engines are often designed to be cross-platform, and provide important basic functionality such as rendering, physics, sound, scripting, and asset management.
+
 
 ### Open Source Game Engines
 
@@ -26,13 +31,20 @@ Note that these engines often have difficulties with distribution on console pla
 
 **[Godot Engine](https://godotengine.org/)**
 - 2D and 3D game engine built with C++
-- Supports Windows, Mac, Linux, HTML5, Android, iOS,
+- Supports Windows, Mac, Linux, HTML5, Android, iOS.
     - Console support: Nintendo Switch support is available by request for licensed developers.
 - Scripting languages: GDScript or C#
 - [Make Games with Godot: Beginner Edition](https://www.gdquest.com/tutorial/godot/learning-paths/beginner/) - A guide for new developers to learn programming with Godot.
 - [Make Games with Godot: Developer Edition](https://www.gdquest.com/tutorial/godot/learning-paths/developer/) - A guide for experienced developers to learn Godot.
 - [KidsCanCode: Godot Recipes](http://kidscancode.org/godot_recipes/4.x/)
 - [GDScript Fundamentals](https://www.youtube.com/playlist?list=PLJ690cxlZTgL4i3sjTPRQTyrJ5TTkYJ2_)
+- [/r/godot - For Godot game development](https://old.reddit.com/r/godot/)
+
+**[O3DE](https://o3de.org/)**
+- 3D game engine built with C++.
+- Supports Windows, Mac, Linux, iOS, and Android.
+- Originally known as Amazon Lumberyard (itself a heavily modified fork of CryEngine) later acquired by the Linux Foundation.
+- [/r/O3DE - For O3DE game development](https://old.reddit.com/r/O3DE/)
 
 **[HaxeFlixel](https://haxeflixel.com/)**
 - 2D game engine built with Haxe
@@ -40,23 +52,35 @@ Note that these engines often have difficulties with distribution on console pla
     - Console support: Nintendo Switch support is available by request for licensed developers. 
 - Scripting language: Haxe
 
+**[GDevelop](https://gdevelop.io/)**
+
+
 ### Closed Source Game Engines
 
 These game engines are closed source, and require a license to use. The license often allows free use for non-commercial projects, but requires a paid license for commercial projects. Additionally, the low-level code of these engines is kept highly proprietary, and is not accessible to the public.
 
 **[Unity](https://unity.com/)**
 - 2D and 3D game engine
+- Scripting languages: Blueprints or C++
 - Supports Windows, Mac, Linux, WebGL, iOS, Android, PlayStation 4/5, Xbox One/Series X/S, Nintendo Switch, VR
 - [C# Coding Conventions in Unity](https://www.youtube.com/watch?v=vYIM-PG85vo)
+- [/r/Unity3D - For Unity game development](https://old.reddit.com/r/Unity3D/)
 
 **[Unreal Engine](https://www.unrealengine.com/)**
 - 2D and 3D game engine
+- Developed by Epic Games and used in games like Fortnite
+- Scripting languages: Blueprints or C++
 
 **[GameMaker Studio 2](https://www.yoyogames.com/gamemaker)**
 - 2D game engine
 
 **[Construct 3](https://www.construct.net/)**
 - 2D game engine
+
+**[Flax Engine](https://flaxengine.com/)**
+
+**[Defold](https://defold.com/)**
+
 
 ## Assets
 
@@ -66,30 +90,34 @@ Here are some lists of free assets that you can use in your game projects.
 - [OpenGameArt.org](https://opengameart.org/)
 - [Kenney.nl](https://kenney.nl/)
 - [15 sources of texture maps](https://www.youtube.com/watch?v=Na1gyd6MUKA)
-- [itch.io](https://itch.io/)
+- [itch.io](https://itch.io/game-assets)
+
 
 ## Blogs and Blog Posts
 
 - [My own posts about software development](https://www.elitemastereric.com/tag/development/)
 - [Fortress of Doors](https://www.fortressofdoors.com/) - Lars Doucet's blog about game/software development 
 
+
 ## Programming
+
 
 ### Design Patterns
 - [State Machines, demonstrated in Unity](https://www.youtube.com/watch?v=Vt8aZDPzRjI)
 - [Observer Pattern, demonstrated in Unity](https://www.youtube.com/watch?v=NY_fzd8g5MU)
 - [Command Pattern, demonstrated in Unity](https://www.youtube.com/watch?v=oLRINAn0cuw)
 
+
 ### C++
 - [CPPCon](https://www.youtube.com/@CppCon/videos) - VODS of an annual conference for C++ developers
+
 
 ## Subreddits
 
 - [/r/gamedev - For users looking for advice and discussion on game development](https://old.reddit.com/r/gamedev/)
 - [/r/INAT - For users looking for people to collaborate with on game dev projects](https://old.reddit.com/r/INAT/)
 - [/r/gameDevClassifieds - For users looking to recruit or hire game developers](https://old.reddit.com/r/gameDevClassifieds/)
-- [/r/Unity3D - For Unity game development](https://old.reddit.com/r/Unity3D/)
-- [/r/godot - For Godot game development](https://old.reddit.com/r/godot/)
+
 
 ## Other Links
 
