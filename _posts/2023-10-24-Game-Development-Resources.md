@@ -40,17 +40,24 @@ Note that these engines often have difficulties with distribution on console pla
 - [GDScript Fundamentals](https://www.youtube.com/playlist?list=PLJ690cxlZTgL4i3sjTPRQTyrJ5TTkYJ2_)
 - [/r/godot - For Godot game development](https://old.reddit.com/r/godot/)
 
-**[O3DE](https://o3de.org/)**
-- 3D game engine built with C++.
-- Supports Windows, Mac, Linux, iOS, and Android.
-- Originally known as Amazon Lumberyard (itself a heavily modified fork of CryEngine) later acquired by the Linux Foundation.
-- [/r/O3DE - For O3DE game development](https://old.reddit.com/r/O3DE/)
+**[Defold]**
+- 2D and 3D game engine
+- Supports Windows, Mac, Linux, HTML5, Android, iOS.
+    - Console support: Playstation 5 and Nintendo Switch support is available by request for licensed developers.
+- Scripting languages: Lua
+- [Defold Tutorials](https://defold.com/learn/)
 
 **[HaxeFlixel](https://haxeflixel.com/)**
 - 2D game engine built with Haxe
 - Supports Windows, Linux, Mac, HTML5, Android, iOS.
     - Console support: Nintendo Switch support is available by request for licensed developers. 
 - Scripting language: Haxe
+
+**[O3DE](https://o3de.org/)**
+- 3D game engine built with C++.
+- Supports Windows, Mac, Linux, iOS, and Android.
+- Originally known as Amazon Lumberyard (itself a heavily modified fork of CryEngine) later acquired by the Linux Foundation.
+- [/r/O3DE - For O3DE game development](https://old.reddit.com/r/O3DE/)
 
 **[GDevelop](https://gdevelop.io/)**
 
@@ -71,15 +78,15 @@ These game engines are closed source, and require a license to use. The license 
 - Developed by Epic Games and used in games like Fortnite
 - Scripting languages: Blueprints or C++
 
-**[GameMaker Studio 2](https://www.yoyogames.com/gamemaker)**
+**[GameMaker Studio](https://www.yoyogames.com/gamemaker)**
 - 2D game engine
+- Developed by YoYo Games and used in games like Forager and Undertale
+- Recently went free-to-use
 
 **[Construct 3](https://www.construct.net/)**
 - 2D game engine
 
 **[Flax Engine](https://flaxengine.com/)**
-
-**[Defold](https://defold.com/)**
 
 
 ## Assets
