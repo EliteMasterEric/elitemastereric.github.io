@@ -6,3 +6,5 @@
 - https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM/edit#gid=310116733
 - https://www.gameenginebook.com/figures.html
 - https://o3de.org/
+
+https://github.com/giscus/giscus
