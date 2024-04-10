@@ -1,0 +1,16 @@
+<!-- TODO: Check if image is block or inline. -->
+
+{{- if .IsBlock -}}
+<!-- Image is block but could not be converted automatically. -->
+<figure>
+  <picture>
+      <img loading="lazy" class="img-fluid" src="{{ .Destination | safeURL }}" {{ with .Text}} alt="{{ . }}" {{ else }} alt="{{ .Page.Title }}" {{ end }} {{ with .Title}} title="{{ . }}"{{ end }} />
+  </picture>
+  <figcaption><h4>{{ .Text }}</h4></figcaption>
+</figure>
+{{- else -}}
+<!-- Image is inline but could not be converted automatically. -->
+<picture>
+  <img loading="lazy" class="img-fluid" src="{{ .Destination | safeURL }}" {{ with .Text}} alt="{{ . }}" {{ else }} alt="{{ .Page.Title }}" {{ end }} {{ with .Title}} title="{{ . }}"{{ end }} />
+</picture>
+{{- end -}}

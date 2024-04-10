@@ -1,0 +1,36 @@
+{{ define "main" }}
+  <div
+    class="post {{ with .Site.Params.doNotLoadAnimations }}
+      .
+    {{ else }}
+      animated fadeInDown
+    {{ end }}"
+  >
+    <div class="post__content">
+      {{ .Content }}
+    </div>
+
+    <!-- (Optional) Home
+          -- on top of `mainSections` content (aka posts) ;
+          -- as declared in content/_index.md
+
+          One can set `mainSections = [""]` and have the content/_index.md specified here
+      -->
+  </div>
+
+  {{ if .Params.mainSectionsTitle }}
+    <div
+      class="post {{ with .Site.Params.doNotLoadAnimations }}
+        .
+      {{ else }}
+        animated fadeInDown
+      {{ end }}"
+    >
+      <div class="post__content">
+        <h2>{{ .Params.mainSectionsTitle }}</h2>
+      </div>
+    </div>
+  {{ end }}
+
+  {{ .Render "main-blog-list"}}
+{{ end }}

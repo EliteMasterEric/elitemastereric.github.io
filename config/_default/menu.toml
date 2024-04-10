@@ -1,0 +1,42 @@
+[[main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[main]]
+name = "Blog"
+weight = 200
+identifier = "posts"
+url = "/posts/"
+
+[[main]]
+name = "Projects"
+weight = 300
+identifier = "projects"
+url = "/projects/"
+
+[[main]]
+name = "Games"
+weight = 350
+identifier = "games"
+url = "/games/"
+
+[[main]]
+name = "Space Damsel"
+weight = 351
+identifier = "[space damsel]"
+url = "/games/space-damsel"
+parent="games"
+
+[[main]]
+name = "Tags"
+weight = 400
+identifier = "tags"
+url = "/tags/"
+
+[[main]]
+name = "About"
+weight = 500
+identifier = "about"
+url = "/about/"

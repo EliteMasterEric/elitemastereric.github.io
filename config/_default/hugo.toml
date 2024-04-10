@@ -1,0 +1,73 @@
+baseURL = 'https://elitemastereric.com/'
+languageCode = 'en-us'
+title = 'EliteMasterEric'
+
+# Theme Configuration
+theme = 'anatole'
+
+# General style settings
+enableEmoji = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+
+# URL Configuration
+[permalinks]
+  posts = "/posts/:slugorfilename/"
+  projects = "/projects/:slugorfilename/"
+  tags = "/tags/:slugorfilename/"
+
+# Related Posts
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  applyFilter = false
+  cardinalityThreshold = 0
+  name = 'keywords'
+  pattern = ''
+  toLower = false
+  type = 'basic'
+  weight = 0
+[[related.indices]]
+  applyFilter = false
+  cardinalityThreshold = 0
+  name = 'date'
+  pattern = ''
+  toLower = false
+  type = 'basic'
+  weight = 0
+[[related.indices]]
+  applyFilter = false
+  cardinalityThreshold = 0
+  name = 'tags'
+  pattern = ''
+  toLower = false
+  type = 'basic'
+  weight = 80
+
+# Technical config
+[minify]
+  disableXML = true
+  minifyOutput = true
+[imaging]
+  anchor = "Smart"
+  bgColor = "#ffffff"
+  hint = "photo"
+  quality = 75
+  resampleFilter = "Lanczos"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true

@@ -1,10 +1,13 @@
-_site
+# Temporary files
 .DS_Store
-.jekyll
-.jekyll-metadata
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
 node_modules
-package.json
+dist
+tmp
+
+# Generated site files
+/public/
+# NOTE: Include /resources/ as a whole to reduce build times.
+/resources/_gen/
+
+# hugo binaries
+/lib/hugo_*/

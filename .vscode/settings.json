@@ -1,0 +1,17 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:PATH};./lib/hugo_0.124.1_extended/"
+    },
+    "files.exclude": {
+        "lib/**": true,
+        "public/**": true,
+        "resources/**": true,
+        ".hugo_build.lock": true,
+    },
+    "[markdown]": {
+        "editor.tabSize": 2
+    },
+    "[toml]": {
+        "editor.tabSize": 2
+    }
+}

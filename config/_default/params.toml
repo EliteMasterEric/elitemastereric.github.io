@@ -1,0 +1,58 @@
+# Theme parameters
+profilePicture = "images/profile.png"
+title = "EliteMasterEric" # Below profile
+description = "Programmer Extraordinaire" # Below title
+author = "EliteMasterEric" # Copyright
+copyright = "2021-{{ YEAR }}"
+displayMode = "dark"
+doNotLoadAnimations = true
+contentratio = 0.7
+
+customScss = ["style/style.scss"]
+
+mainSections = ["posts"]
+
+[[socialIcons]]
+  cls = "fab fa-twitter fa-2x"
+  title = "Twitter"
+  url = "https://twitter.com/EliteMasterEric"
+
+[[socialIcons]]
+  cls = "fab fa-github fa-2x"
+  title = "GitHub"
+  url = "https://github.com/EliteMasterEric"
+
+[[socialIcons]]
+  cls = "gi gi-tank gi-225"
+  title = "Newgrounds"
+  url = "https://elitemastereric.newgrounds.com/"
+
+[[socialIcons]]
+  cls = "fab fa-youtube fa-2x"
+  title = "YouTube"
+  url = "https://www.youtube.com/@EliteMasterEric"
+
+[[socialIcons]]
+  cls = "fab fa-twitch fa-2x"
+  title = "Twitch.tv"
+  url = "https://www.twitch.tv/EliteMasterEric"
+
+[[socialIcons]]
+  cls = "fab fa-stack-overflow fa-2x"
+  title = "StackOverflow"
+  url = "https://stackoverflow.com/users/5583560/elitemastereric"
+
+[[socialIcons]]
+  cls = "fab fa-linkedin fa-2x"
+  title = "LinkedIn"
+  url = "https://www.linkedin.com/in/eric-myllyoja-287876121/"
+
+[[socialIcons]]
+  cls = "fa fa-envelope fa-2x fa-regular"
+  title = "Email"
+  url = "mailto:elitemastereric@gmail.com"
+
+[[socialIcons]]
+  cls = "fa fa-rss fa-2x"
+  title = "RSS"
+  url = "/index.xml"
