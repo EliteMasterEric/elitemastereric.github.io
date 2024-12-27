@@ -95,6 +95,7 @@ Here are some lists of free assets that you can use in your game projects.
 
 - [Life as a creative commons indie game developer](https://itch.io/blog/478317/life-as-a-creative-commons-indie-game-developer) - A list of links and resources
 - [OpenGameArt.org](https://opengameart.org/)
+- [Game Icons](https://game-icons.net/)
 - [Kenney.nl](https://kenney.nl/)
 - [15 sources of texture maps](https://www.youtube.com/watch?v=Na1gyd6MUKA)
 - [itch.io](https://itch.io/game-assets)
