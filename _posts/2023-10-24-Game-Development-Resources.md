@@ -99,6 +99,7 @@ Here are some lists of free assets that you can use in your game projects.
 - [Kenney.nl](https://kenney.nl/)
 - [15 sources of texture maps](https://www.youtube.com/watch?v=Na1gyd6MUKA)
 - [itch.io](https://itch.io/game-assets)
+- [Retro 3D Graphics Collection](https://github.com/Miziziziz/Retro3DGraphicsCollection)
 
 
 ## Blogs and Blog Posts
